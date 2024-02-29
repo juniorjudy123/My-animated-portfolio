@@ -4,7 +4,6 @@ import "./navbar.scss"
 export default function Navbar() {
 	return (
 		<div className="navbar">
-			{/* sidebar*/}
 			<div className="wrapper">
 				<span>Benoy Judy</span>
 				<div className="social">
